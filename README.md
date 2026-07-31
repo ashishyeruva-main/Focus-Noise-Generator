@@ -1,1 +1,1 @@
-# Focus-Noise-Generatro
+# Focus-Noise-Generatror
